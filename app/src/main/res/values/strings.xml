@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Okhttputil_Tester</string>
+
+    <string name="sr">本页用于注册，尚不能处理反馈的数据，反馈信息需要看Run的日志打印</string>
+</resources>
